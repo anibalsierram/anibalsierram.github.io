@@ -523,6 +523,7 @@ img {
 	min-height: 455px;
 	padding: 0;
 	width: 100%;
+	text-align: justify;
 }
 #body.about .header div, #body .header div {
 	margin: 0 auto;
