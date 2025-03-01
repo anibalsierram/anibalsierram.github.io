@@ -810,7 +810,7 @@ img {
 	line-height: 23px;
 	margin: 0 0 0px;
 	padding: 0;
-	text-align: left;
+	text-align: right;
 	text-transform: uppercase;
 	width: 520px;
 }
@@ -822,7 +822,7 @@ img {
 	line-height: 24px;
 	margin: 0 0 41px;
 	padding: 0;
-	text-align: left;
+	text-align: justify;
 	width: 520px;
 }
 #body .header div ul li div p a {
