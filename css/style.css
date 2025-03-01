@@ -523,7 +523,6 @@ img {
 	min-height: 455px;
 	padding: 0;
 	width: 100%;
-	text-align: justify;
 }
 #body.about .header div, #body .header div {
 	margin: 0 auto;
@@ -566,7 +565,7 @@ img {
 	line-height: 24px;
 	margin: 0 auto;
 	padding: 0;
-	text-align: center;
+	text-align: justify;
 	width: 820px;
 }
 #body.about .header div p a {
