@@ -813,6 +813,9 @@ img {
 	text-align: right;
 	text-transform: uppercase;
 	width: 520px;
+    	border-radius: 50px;
+	background-color: #043F69;
+	
 }
 #body .header div ul li div p {
 	color: #FFFFFF;
@@ -837,7 +840,7 @@ img {
 	margin: 0;
 	padding: 0;
 	text-decoration: underline;
-	width: auto;
+	width: auto;	
 }
 #body .header div ul li div p a:hover {
 	color: #a3a3a3;
