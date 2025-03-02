@@ -87,7 +87,7 @@ img {
 	width: auto;
 }
 #header div ul li a:hover {
-	background-color: #620031;
+	background-color: #043F69;
 	color: #ffffff;
 }
 #header div ul li.selected a {
@@ -126,7 +126,7 @@ img {
 	width: auto;
 }
 #header div ul li.menu ul li a {
-	background-color: #620031;
+	background-color: #043F69;
 	color: #ffffff;
 	display: block;
 	font-family: Arial;
