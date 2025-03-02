@@ -590,6 +590,7 @@ img {
 	width: 100%;
 }
 #body.about .body div {
+	color: #FFFFFF;
 	margin: 0 auto;
 	max-width: 940px;
 	overflow: hidden;
@@ -609,7 +610,7 @@ img {
 	width: 620px;
 }
 #body.about .body div p {
-	color: #000000;
+	color: #FFFFFF;
 	display: block;
 	float: left;
 	font-family: Arial;
